@@ -7,10 +7,10 @@ class Tbl2asn < Formula
   version "25.3"
   if OS.mac?
     url "https://ftp.ncbi.nih.gov/toolbox/ncbi_tools/converters/by_program/tbl2asn/mac.tbl2asn.gz"
-    sha256 "429d63ee3c36d1f2f6322c62c6089d5ee8a8b089e5cc9373e298e017bcbbb9ec"
+    sha256 "35632173046c3b43104ec7c9652006f71ffbbbb2959d53919ad85b0bf3060581"
   elsif OS.linux?
     url "https://ftp.ncbi.nih.gov/toolbox/ncbi_tools/converters/by_program/tbl2asn/linux64.tbl2asn.gz"
-    sha256 "37fb033ef3364447d718b726f234da124d474fa22a31917d3b60458ef8294283"
+    sha256 "8cdf3401b4347f84a9b75d6b769a6d2fa062f4731902eb2545a7f969a9162d7f"
   end
 
   bottle do
