@@ -5,6 +5,7 @@ class Tbl2asn < Formula
 
   # version number is in https://ftp.ncbi.nih.gov/toolbox/ncbi_tools/converters/by_program/tbl2asn/DOCUMENTATION/VERSIONS
   version "25.3"
+  revision 1
   if OS.mac?
     url "https://ftp.ncbi.nih.gov/toolbox/ncbi_tools/converters/by_program/tbl2asn/mac.tbl2asn.gz"
     sha256 "35632173046c3b43104ec7c9652006f71ffbbbb2959d53919ad85b0bf3060581"
