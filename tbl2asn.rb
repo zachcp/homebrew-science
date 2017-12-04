@@ -8,7 +8,7 @@ class Tbl2asn < Formula
   revision 1
   if OS.mac?
     url "https://ftp.ncbi.nih.gov/toolbox/ncbi_tools/converters/by_program/tbl2asn/mac.tbl2asn.gz"
-    sha256 "35632173046c3b43104ec7c9652006f71ffbbbb2959d53919ad85b0bf3060581"
+    sha256 "48471d3bde58f0d7b115b842c75bd55d3e3e8af6d7ba4cef53af643b45ebc658"
   elsif OS.linux?
     url "https://ftp.ncbi.nih.gov/toolbox/ncbi_tools/converters/by_program/tbl2asn/linux64.tbl2asn.gz"
     sha256 "8cdf3401b4347f84a9b75d6b769a6d2fa062f4731902eb2545a7f969a9162d7f"
